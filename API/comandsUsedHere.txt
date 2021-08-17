@@ -1,0 +1,26 @@
+npm install nodemon --save
+npm install mongoose --save
+
+
+Para Hash de password
+npm install --global --production windows-build-tools
+npm i bcrypt --save
+
+Biblioteca que gera token para autenticar
+npm i jsonwebtoken --save
+
+para usar variavel de ambiente
+npm i dotenv --save
+
+biblioteca para liberar CORS(que libera ao js acesso a outros sites)
+npm i cors --save
+
+Criando a pasta do Reac
+npx create-react-app javascript_note
+
+(RBX --> Biblioteca reac para usar bulma, bootstrap, etc)
+
+Com projeto finalizado para subir a api
+usar
+
+nodemon start PORT=3001
