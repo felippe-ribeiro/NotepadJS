@@ -1,0 +1,24 @@
+Para startar o servidor React:
+npm start
+
+Instalando as libs principais:
+
+npm i react-router-dom --save --> serve para rotear as paginas 
+npm i axios --save  --> para chamadas js para API
+npm i node-sass --save  --> utilziar o Sass (versão melhorada do CSS)
+npm i bulma --save  --> estilos do bulma
+npm i rbx --save   --> componentes usando estilos bulmam (https://dfee.github.io/rbx/components/message)
+npm i moment --save --> conseguir formatar data em formato amigavel
+
+//conjunto de icones gratuitos
+npm i @fortawesome/fontawesome-svg-core --save
+npm i @fortawesome/free-solid-svg-icons --save
+npm i @fortawesome/react-fontawesome --save
+
+Biblioteca de menu móvel:
+npm i react-burger-menu --save
+
+Biblioteca Quill: (edição de texto)
+npm i react-quill --save
+
+lembrar de dar start ao bd dentro da pasta do API!!: nodemon start 
